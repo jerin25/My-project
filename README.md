@@ -1,4 +1,4 @@
 # My-project
 First Project
 Hai
-This is my second text file in Github
+This is my second text file
